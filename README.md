@@ -11,6 +11,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## Programming based:
 - [Deep Learning with Python by Francois Chollet - 2nd edition](https://www.manning.com/books/deep-learning-with-python) [General, Good, based on Keras, Programming + Little theory, Manning Publisher]  
+- [Dive into Deep Learning](http://d2l.ai/) [General, Good, based on Mxnet, Programming + theory, Free (support from Amazon)]  
 
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
