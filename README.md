@@ -10,6 +10,7 @@ A Great Collection of Deep Learning (e)Books
 
 
 ## Programming based:
+- [Programming PyTorch for Deep Learning - by Ian Pointer](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) [General, **Excellent book**, based on PyTorch, Programming + Little theory, O’Reilly Publisher]  
 - [Deep Learning with Python by Francois Chollet - 2nd edition](https://www.manning.com/books/deep-learning-with-python) [General, Good, based on Keras, Programming + Little theory, Manning Publisher]  
 - [Dive into Deep Learning](http://d2l.ai/) [General, Good, based on Mxnet, Programming + theory, Free (support from Amazon)]  
 
