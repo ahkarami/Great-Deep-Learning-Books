@@ -17,5 +17,8 @@ A Great Collection of Deep Learning (e)Books
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
 
+## GANs:
+- [Generative Deep Learning - by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) [General (_i.e.,_ GAN for image/audio/text data), **Great book**, based on Keras, theory + Programming , O’Reilly Publisher]   
+
 ## Other:
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
