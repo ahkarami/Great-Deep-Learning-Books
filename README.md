@@ -17,6 +17,9 @@ A Great Collection of Deep Learning (e)Books
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
 
+## TinyML - Deep Learning on Embedded Devices & Mobile:
+- [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers -- by Pete Warden & Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/) [Good book, based on TensorFlow Lite on Arduino, Programming/Practical, O’Reilly Publisher]  
+
 ## GANs:
 - [Generative Deep Learning - by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) [General (_i.e.,_ GAN for image/audio/text data), **Great book**, based on Keras, theory + Programming , O’Reilly Publisher]   
 - [GANs in Action - by Jakub Langr, and Vladimir Bok](https://www.manning.com/books/gans-in-action) [Image based, Good, based on Keras, theory + Programming, Manning Publisher]  
