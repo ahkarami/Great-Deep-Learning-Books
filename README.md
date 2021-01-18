@@ -26,5 +26,8 @@ A Great Collection of Deep Learning (e)Books
 - [Generative Deep Learning - by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) [General (_i.e.,_ GAN for image/audio/text data), **Great book**, based on Keras, theory + Programming , O’Reilly Publisher]   
 - [GANs in Action - by Jakub Langr, and Vladimir Bok](https://www.manning.com/books/gans-in-action) [Image based, Good, based on Keras, theory + Programming, Manning Publisher]  
 
+## Backend for Deep Learning & Machine Learning:
+- [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) [**Great book**, O’Reilly Publisher]  
+
 ## Other:
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
