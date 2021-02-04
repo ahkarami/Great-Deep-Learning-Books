@@ -21,6 +21,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## Deep Learning & NLP:
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) [NLP, Good, Programming + theory, O’Reilly Publisher]  
+- [Natural Language Processing with PyTorch](https://www.oreilly.com/library/view/natural-language-processing/9781491978221/) [NLP, Good, Programming + theory, O’Reilly Publisher]    
 
 ## TinyML - Deep Learning on Embedded Devices & Mobile:
 - [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers -- by Pete Warden & Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/) [Good book, based on TensorFlow Lite on Arduino, Programming/Practical, O’Reilly Publisher]  
