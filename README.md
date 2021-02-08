@@ -38,4 +38,5 @@ A Great Collection of Deep Learning (e)Books
 - [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]    
 
 ## Other:
+- [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
