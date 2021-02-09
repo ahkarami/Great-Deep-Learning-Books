@@ -35,7 +35,8 @@ A Great Collection of Deep Learning (e)Books
 - [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) [**Great book**, O’Reilly Publisher]  
 
 ## Books about Project Management & Business Issues:
-- [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]    
+- [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]   
+- [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.apress.com/gp/book/9781484221570)  
 
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
