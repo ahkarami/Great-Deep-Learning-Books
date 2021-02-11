@@ -38,6 +38,7 @@ A Great Collection of Deep Learning (e)Books
 - [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]   
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.apress.com/gp/book/9781484221570)  
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://hardthings.bhorowitz.com/)  
+- [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)  
 
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
