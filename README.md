@@ -35,6 +35,7 @@ A Great Collection of Deep Learning (e)Books
 - [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) [**Great book**, O’Reilly Publisher]  
 - [Ansible for DevOps - Server and configuration management for humans](https://leanpub.com/ansible-for-devops)  
 - [Ansible for Kubernetes - Automate app deployment on any scale with Ansible and K8s](https://leanpub.com/ansible-for-kubernetes)  
+- [Cloud Native DevOps with Kubernetes](https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/) [**Good book**, O’Reilly Publisher]  
 
 ## Books about Project Management & Business Issues:
 - [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]   
