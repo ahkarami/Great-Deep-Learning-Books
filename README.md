@@ -16,7 +16,7 @@ A Great Collection of Deep Learning (e)Books
 ## Programming based:
 - [Programming PyTorch for Deep Learning - by Ian Pointer](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) [General, **Excellent book**, based on PyTorch, Programming + Little theory, O’Reilly Publisher]  
 - [Deep Learning with Python by Francois Chollet - 2nd edition](https://www.manning.com/books/deep-learning-with-python) [General, Good, based on Keras, Programming + Little theory, Manning Publisher]  
-- [Dive into Deep Learning](http://d2l.ai/) [General, Good, based on Mxnet, Programming + theory, Free (support from Amazon)]  
+- [Dive into Deep Learning](http://d2l.ai/) [General, Good, based on Mxnet/PyTorch/TensorFlow/NumPy, Programming + theory, Free (support from Amazon)]  
 - [Deep Learning for Coders With Fastai and Pytorch AI Applications Without a Phd](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) [General, Semi Good, based on PyTorch, Programming + Little theory, O’Reilly Publisher]   
 - [Deep Learning for Coders With Fastai and Pytorch AI Applications Without a Phd - GitHub](https://github.com/fastai/fastbook)  
 
@@ -29,6 +29,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## Reinforcement Learning:
 - [Reinforcement Learning, An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) [by Richard S. Sutton, MIT Press]   
+- [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) [by Alexander Zai and Brandon Brown, Good, Programming + Theory, Manning Publisher]    
 
 ## TinyML - Deep Learning on Embedded Devices & Mobile:
 - [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers -- by Pete Warden & Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/) [Good book, based on TensorFlow Lite on Arduino, Programming/Practical, O’Reilly Publisher]  
