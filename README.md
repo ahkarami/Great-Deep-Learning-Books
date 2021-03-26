@@ -30,6 +30,7 @@ A Great Collection of Deep Learning (e)Books
 ## Reinforcement Learning:
 - [Reinforcement Learning, An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) [by Richard S. Sutton, MIT Press]   
 - [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) [by Alexander Zai and Brandon Brown, Good, Programming + Theory, Manning Publisher]    
+- [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) [by Max Pumperla and Kevin Ferguson, Good, Programming + Theory, Manning Publisher]   
 
 ## TinyML - Deep Learning on Embedded Devices & Mobile:
 - [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers -- by Pete Warden & Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/) [Good book, based on TensorFlow Lite on Arduino, Programming/Practical, O’Reilly Publisher]  
