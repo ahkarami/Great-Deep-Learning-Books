@@ -20,6 +20,7 @@ A Great Collection of Deep Learning (e)Books
 - [Dive into Deep Learning](http://d2l.ai/) [General, Good, based on Mxnet/PyTorch/TensorFlow/NumPy, Programming + theory, Free (support from Amazon)]  
 - [Deep Learning for Coders With Fastai and Pytorch AI Applications Without a Phd](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) [General, Semi Good, based on PyTorch, Programming + Little theory, O’Reilly Publisher]   
 - [Deep Learning for Coders With Fastai and Pytorch AI Applications Without a Phd - GitHub](https://github.com/fastai/fastbook)  
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) [General, Semi-Good, Theory in simple language + Programming, Manning Publisher]  
 
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
