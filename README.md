@@ -39,6 +39,7 @@ A Great Collection of Deep Learning (e)Books
 ## TinyML - Deep Learning on Embedded Devices & Mobile:
 - [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers -- by Pete Warden & Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/) [Good book, based on TensorFlow Lite on Arduino, Programming/Practical, O’Reilly Publisher]  
 - [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) [Good book, based on Keras/TensorFlow, Programming/Practical, O’Reilly Publisher]  
+- [AI and Machine Learning On-Device Development](https://www.oreilly.com/library/view/ai-and-machine/9781098101732/) [Good book, based on ML Kit/TensorFlow Lite/Core ML, Programming/Practical, O’Reilly Publisher]  
 
 ## GANs:
 - [Generative Deep Learning - by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) [General (_i.e.,_ GAN for image/audio/text data), **Great book**, based on Keras, theory + Programming , O’Reilly Publisher]   
