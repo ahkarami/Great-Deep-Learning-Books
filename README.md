@@ -47,6 +47,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## Machine Learning with JavaScript (ML with JS):
 - [Deep Learning with JavaScript: Neural networks in TensorFlow.js](https://www.manning.com/books/deep-learning-with-javascript) [Good, based on JS, Programming + theory, Manning Publisher]   
+- [Hands-on Machine Learning with JavaScript](https://www.packtpub.com/product/hands-on-machine-learning-with-javascript/9781788998246) [Programming + Little theory, packtpub]  
 
 ## Backend for Deep Learning & Machine Learning:
 - [Kubeflow for Machine Learning](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/) [**Great book**, O’Reilly Publisher]  
