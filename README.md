@@ -63,6 +63,9 @@ A Great Collection of Deep Learning (e)Books
 - [Cracking the PM Interview](https://www.crackingthepminterview.com/)  
 - [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)  
 
+## Python Programming Books:
+- [Python Tricks: The Book](https://dbader.org/products/) [**Great**]    
+
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
