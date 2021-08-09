@@ -64,7 +64,8 @@ A Great Collection of Deep Learning (e)Books
 - [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)  
 
 ## Python Programming Books:
-- [Python Tricks: The Book](https://dbader.org/products/) [**Great**]    
+- [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
+- [Python 101](https://leanpub.com/py101/)   
 
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
