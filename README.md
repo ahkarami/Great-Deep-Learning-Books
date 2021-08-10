@@ -66,6 +66,7 @@ A Great Collection of Deep Learning (e)Books
 ## Python Programming Books:
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
 - [Python 101](https://leanpub.com/py101/)   
+- [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)    
 
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
