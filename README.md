@@ -68,6 +68,9 @@ A Great Collection of Deep Learning (e)Books
 - [Python 101](https://leanpub.com/py101/)   
 - [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)    
 
+## Statistics:
+- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)  
+
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
