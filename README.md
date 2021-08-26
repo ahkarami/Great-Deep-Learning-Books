@@ -63,6 +63,9 @@ A Great Collection of Deep Learning (e)Books
 - [Cracking the PM Interview](https://www.crackingthepminterview.com/)  
 - [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)  
 
+## Data Analysis & Data Science Books:
+- [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/)     
+
 ## Python Programming Books:
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
 - [Python 101](https://leanpub.com/py101/)   
