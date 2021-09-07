@@ -70,6 +70,7 @@ A Great Collection of Deep Learning (e)Books
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
 - [Python 101](https://leanpub.com/py101/)   
 - [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)    
+- [Daily Coding Problem](https://www.dailycodingproblem.com/blog/daily-coding-problem-book-now-available/) [Great]     
 
 ## Statistics:
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)  
