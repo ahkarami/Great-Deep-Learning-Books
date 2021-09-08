@@ -65,6 +65,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## Data Analysis & Data Science Books:
 - [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/)     
+- [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)   
 
 ## Python Programming Books:
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
