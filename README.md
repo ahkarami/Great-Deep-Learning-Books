@@ -73,6 +73,8 @@ A Great Collection of Deep Learning (e)Books
 - [Python 101](https://leanpub.com/py101/)   
 - [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)    
 - [Daily Coding Problem](https://www.dailycodingproblem.com/blog/daily-coding-problem-book-now-available/) [Great]     
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)   
+- [Cracking the Coding Interview - Solutions](https://github.com/careercup/CtCI-6th-Edition)   
 
 ## Statistics:
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)  
