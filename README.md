@@ -68,6 +68,9 @@ A Great Collection of Deep Learning (e)Books
 - [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)   
 - [Hands-On Exploratory Data Analysis with Python](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253)   
 
+## Web Scraping:
+- [Mining the Social Web, 3rd Edition](https://www.oreilly.com/library/view/mining-the-social/9781491973547/)   
+
 ## Python Programming Books:
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
 - [Python 101](https://leanpub.com/py101/)   
