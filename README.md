@@ -71,6 +71,7 @@ A Great Collection of Deep Learning (e)Books
 ## Web Scraping:
 - [Mining the Social Web, 3rd Edition](https://www.oreilly.com/library/view/mining-the-social/9781491973547/)   
 - [Web Scraping with Python, 2nd Edition](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/)   
+- [Practical Web Scraping for Data Science, Apress Publisher](https://link.springer.com/book/10.1007/978-1-4842-3582-9)   
 
 ## Python Programming Books:
 - [Python Tricks: The Book](https://dbader.org/products/) [Intermediate & Advanced Level, & **Great**]    
