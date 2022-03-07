@@ -32,6 +32,7 @@ A Great Collection of Deep Learning (e)Books
 ## Deep Learning & NLP:
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) [NLP, Good, Programming + theory, O’Reilly Publisher]  
 - [Natural Language Processing with PyTorch](https://www.oreilly.com/library/view/natural-language-processing/9781491978221/) [NLP, Good, Programming + theory, O’Reilly Publisher]    
+- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) [**Great**]  
 
 ## Reinforcement Learning:
 - [Reinforcement Learning, An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) [by Richard S. Sutton, MIT Press]   
