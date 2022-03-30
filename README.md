@@ -60,6 +60,9 @@ A Great Collection of Deep Learning (e)Books
 - [Cloud Native DevOps with Kubernetes](https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/) [**Good book**, O’Reilly Publisher]  
 - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/)  
 
+## Linux Learning:
+- [Linux Pocket Guide, 3rd Edition, O’Reilly Publisher](https://www.oreilly.com/library/view/linux-pocket-guide/9781491927557/) [Great]  
+
 ## Books about Project Management & Business Issues:
 - [INSPIRED: How to Create Tech Products Customers Love - 2nd Edition](https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503) [**Great book**, Wiley Publisher]   
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.apress.com/gp/book/9781484221570)  
