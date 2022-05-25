@@ -95,5 +95,6 @@ A Great Collection of Deep Learning (e)Books
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
+- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)  
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650) [Interesting]   
 
