@@ -69,6 +69,7 @@ A Great Collection of Deep Learning (e)Books
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://hardthings.bhorowitz.com/)  
 - [Cracking the PM Interview](https://www.crackingthepminterview.com/)  
 - [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)  
+- [People + AI Guidebook (Google Book)](https://pair.withgoogle.com/guidebook) [Interesting]  
 
 ## Data Analysis & Data Science Books:
 - [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/)     
