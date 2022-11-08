@@ -92,6 +92,7 @@ A Great Collection of Deep Learning (e)Books
 ## Statistics:
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)  
 - [Naked Statistics](https://wwnorton.com/books/naked-statistics/)  
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
 
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
