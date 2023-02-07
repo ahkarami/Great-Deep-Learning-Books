@@ -25,6 +25,7 @@ A Great Collection of Deep Learning (e)Books
 
 ## General Theory-based Books:
 - [Deep Learning Book, by Shelly Sheynin](https://github.com/shellysheynin/Deep-Learning-Book) [Good]    
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)  
 
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
