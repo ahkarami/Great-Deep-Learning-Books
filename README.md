@@ -96,6 +96,9 @@ A Great Collection of Deep Learning (e)Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
 - [How to Lie with Statistics Book](https://www.google.nl/books/edition/How_to_Lie_with_Statistics/2oZGEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)  
 
+## Math Books:
+- [Everything You Always Wanted to Know About Mathematics](https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-maths-book-is-trending-on-hacker-news-activity-7237822306553602050-GQLF?utm_source=share&utm_medium=member_desktop)  
+
 ## Other:
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/) [Deep Learning + Finance & Data Science, Good, Programming + theory, O’Reilly Publisher]    
 - [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)  
