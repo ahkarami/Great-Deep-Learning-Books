@@ -30,6 +30,9 @@ A Great Collection of Deep Learning (e)Books
 ## Deep Learning & Computer Vision:
 - [Deep Learning for Vision Systems - by Elgendy](https://www.manning.com/books/deep-learning-for-vision-systems) [Computer Vision, Good, based on Keras, Programming + theory, Manning Publisher]  
 
+## LLMs Books:
+- [3 LLM-based Books](https://www.linkedin.com/posts/udaykamath_if-you-go-to-amazon-you-will-see-these-are-activity-7261047054104195072-I8S7?utm_source=share&utm_medium=member_desktop)  
+
 ## Deep Learning & NLP:
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) [NLP, Good, Programming + theory, O’Reilly Publisher]  
 - [Natural Language Processing with PyTorch](https://www.oreilly.com/library/view/natural-language-processing/9781491978221/) [NLP, Good, Programming + theory, O’Reilly Publisher]    
